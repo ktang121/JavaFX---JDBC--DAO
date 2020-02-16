@@ -1,0 +1,57 @@
+#label-connect {
+    -fx-font-weight: bold; 
+    -fx-text-fill: gold; 
+    -fx-font-size: 30px;
+    -fx-font-family: monospace;
+}
+
+#label-user {
+    -fx-font-weight: bold;
+    -fx-text-fill: gold; 
+    -fx-font-size: 20px;
+    -fx-font-family: monospace;
+}
+
+#label-password {
+    -fx-font-weight: bold;
+    -fx-text-fill: gold; 
+    -fx-font-size: 20px;
+    -fx-font-family: monospace;
+}
+
+#button-connect{
+    -fx-background-color:gold;
+     -fx-font-weight: bold;
+    -fx-font-family: monospace;
+}
+
+#gridpane-view {
+    -fx-background-color: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkcyan 50%);
+}
+
+#label-dbTitle {
+    -fx-font-family: monospace;
+    -fx-font-size: 50px;
+    -fx-text-fill: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkcyan 50%);
+    -fx-font-weight: bold;
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
+#button-loadData {
+   -fx-background-color:gold;
+     -fx-font-weight: bold;
+    -fx-font-family: monospace;
+    
+}
+
+#borderpane-view {
+     -fx-background-color: linear-gradient(from 0% 0% to 100% 200%, repeat, gold 0%, darkcyan 50%);
+}
+
+#button-search {
+   -fx-background-color:gold;
+     -fx-font-weight: bold;
+    -fx-font-family: monospace;
+    
+}
